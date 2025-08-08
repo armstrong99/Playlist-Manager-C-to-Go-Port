@@ -1,0 +1,4 @@
+Classic Rock Hits
+Bohemian Rhapsody|Queen|3|mp3|320
+Sweet Child O' Mine|Guns N' Roses|1|mp3|256
+Stairway to Heaven|Led Zeppelin|4|mp3|192

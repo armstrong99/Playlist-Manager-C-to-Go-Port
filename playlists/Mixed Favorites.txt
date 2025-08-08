@@ -1,0 +1,4 @@
+Mixed Favorites
+Bohemian Rhapsody|Queen|3|mp3|320
+Imagine|John Lennon|1|wav|44100
+Sweet Child O' Mine|Guns N' Roses|1|mp3|256

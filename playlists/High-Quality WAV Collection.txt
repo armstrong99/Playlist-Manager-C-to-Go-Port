@@ -1,0 +1,4 @@
+High-Quality WAV Collection
+Imagine|John Lennon|1|wav|44100
+Billie Jean|Michael Jackson|2|wav|48000
+Smells Like Teen Spirit|Nirvana|1|wav|44100
